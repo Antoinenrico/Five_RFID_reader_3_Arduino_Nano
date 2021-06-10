@@ -50,7 +50,7 @@ byte SS_PINS[] = {SS_PIN_1, SS_PIN_2};
 byte v[] ={0,0};
 String keyOk10="37 96 e3 60";
 String keyOk11="6a 16 e6 80";
-String keyOk00="09 34 3d 99";
+String keyOk00="ca 57 f4 81";
 String keyOk01="ca 57 f4 81";
 
 MFRC522 rfid[NB_RFIDS];
