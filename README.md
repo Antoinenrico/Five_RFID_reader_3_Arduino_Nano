@@ -3,9 +3,9 @@
 ## LEDs : 
 
 LEDs droite : 
-  - Rouge
-  - Violet
-  - Jaune
+  - Rouge (en haut vue technicien)
+  - Violet (en millieu vue technicien)
+  - Jaune (en bas vue technicien)
 
 ## Main with 2 RFIDs
 
